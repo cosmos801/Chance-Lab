@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sliders, RefreshCw, AlertCircle } from 'lucide-react';
+import {  RefreshCw, AlertCircle } from 'lucide-react';
 import {
   LineChart,
   Line,
